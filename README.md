@@ -3,7 +3,7 @@
 JS script repository for practice and learning.  
 Small projects and exercises made to improve JS programming skills are stored here.
 
-## Instalation
+## Installation
 
 1. Clone the repository by running the following command:
 
