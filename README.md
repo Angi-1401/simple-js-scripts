@@ -1,6 +1,6 @@
 # Simple JS Scripts
 
-JS script repository for practice and learning.  
+JS scripts repository for practice and learning.  
 Small projects and exercises made to improve JS programming skills are stored here.
 
 ## Installation
